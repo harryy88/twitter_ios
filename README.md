@@ -23,4 +23,4 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![](flix-hwk1.gif)
+![](ios_twitter.gif)
